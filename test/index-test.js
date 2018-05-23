@@ -1,4 +1,4 @@
-describe('Arrays', function() {
+/* describe('Arrays', function() {
   beforeEach(function() {
     window.kittens = ['Milo', 'Otis', 'Garfield'];
   });
@@ -73,3 +73,7 @@ describe('Arrays', function() {
   })
 
 })
+*/
+
+var kittens = ['Milo', 'Otis', 'Garfield']
+kittens.push('Peter')
